@@ -1,0 +1,9 @@
+SIS420 Inteligencia Artificial 1
+Laboratorio 4
+
+Nombre: Jhonny Alexander Orco Llanque
+Carrera: Ing. en Ciencias de la Computación
+CU: 111-437
+
+Enlace de repositorio en Drive Google colab: 
+https://drive.google.com/drive/folders/1SCz46W4OrCX4FHQV7cAJC1b5DMtzt1yy?usp=sharing
